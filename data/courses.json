@@ -11,14 +11,12 @@
         "sub_title": "Learn A-Z everything about Python, from the basics, to advanced topics like Python GUI, Python Data Analysis, and more!",
         "description": {
             "des_title": "If you’re looking to learn Python for the very first time or need a quick brush-up, this is the course for you!",
-            "description": "Python has rapidly become one of the most popular programming languages around the world. Compared to other languages such as Java or C++, Python consistently outranks and outperforms these languages in demand from businesses and job availability. The average Python developer makes over $100,000 - this number is only going to grow in the coming years.",
+            "content": "Python has rapidly become one of the most popular programming languages around the world. Compared to other languages such as Java or C++, Python consistently outranks and outperforms these languages in demand from businesses and job availability. The average Python developer makes over $100,000 - this number is only going to grow in the coming years.",
             "Requirements": [
                 "Macintosh (OSX)/ Windows(Vista and higher) Machine",
                 "Internet Connection"
             ]
-
         }
-
     },
     {
         "id": "02",
@@ -28,10 +26,19 @@
         "rating": "5",
         "image_url": "https://i.ibb.co/BKpwYsC/448-252.jpg",
         "price": "15",
-        "completed": 4785
-
+        "completed": 4785,
+        "sub_title": "Dive in and learn React.js from scratch! Learn Reactjs, Hooks, Redux, React Routing, Animations, Next.js and way more!",
+        "description": {
+            "des_title": "This course is fully up-to-date with React 18 (the latest version of React)! It was completely updated and re-recorded from the ground up - it teaches the very latest version of React with all the core, modern features you need to know!",
+            "content": "This course also comes with two paths which you can take: The complete path (full >40h course) and the summary path (~4h summary module) - you can choose the path that best fits your time requirements! React.js is THE most popular JavaScript library you can use and learn these days to build modern, reactive user interfaces for the web.",
+            "Requirements": [
+                "JavaScript + HTML + CSS fundamentals are absolutely required",
+                "You DON'T need to be a JavaScript expert to succeed in this course!",
+                "ES6+ JavaScript knowledge is beneficial but not a must-have",
+                "NO prior React or any other JS framework experience is required!"
+            ]
+        }
     },
-   
     {
         "id": "03",
         "name": "API Testing with Python 3 & PyTest, Backend Automation 2022",
@@ -40,10 +47,14 @@
         "rating": "4.3",
         "image_url": "https://i.ibb.co/PM30Z8Y/f7186667d242.jpg",
         "price": "12",
-        "completed": 6485
-
+        "completed": 6485,
+        "sub_title": "",
+        "description": {
+            "des_title": "",
+            "content": "",
+            "Requirements": []
+        }
     },
-    
     {
         "id": "04",
         "name": "Beginning C++ Programming - From Beginner to Beyond",
@@ -53,8 +64,12 @@
         "image_url": "https://i.ibb.co/2tddhgz/C-programming-1024x530.png",
         "price": "12",
         "completed": 6485,
-        "details_id": "ddd431"
-
+        "sub_title": "",
+        "description": {
+            "des_title": "",
+            "content": "",
+            "Requirements": []
+        }
     },
     {
         "id": "05",
@@ -65,8 +80,12 @@
         "image_url": "https://i.ibb.co/wzNfdVR/Banking-preview-min.png",
         "price": "14",
         "completed": 6855,
-        "details_id": "eee731"
-
+        "sub_title": "",
+        "description": {
+            "des_title": "",
+            "content": "",
+            "Requirements": []
+        }
     },
     {
         "id": "06",
@@ -77,8 +96,12 @@
         "image_url": "https://i.ibb.co/2kVCjnJ/articleocw-5dbb5b040dc23.jpg",
         "price": "9",
         "completed": 6855,
-        "details_id": "fff878"
-
+        "sub_title": "",
+        "description": {
+            "des_title": "",
+            "content": "",
+            "Requirements": []
+        }
     },
     {
         "id": "07",
@@ -89,8 +112,12 @@
         "image_url": "https://i.ibb.co/qgpRGG1/course-7359-image.jpg",
         "price": "12",
         "completed": 5555,
-        "details_id": "ggg111"
-
+        "sub_title": "",
+        "description": {
+            "des_title": "",
+            "content": "",
+            "Requirements": []
+        }
     },
     {
         "id": "08",
@@ -101,10 +128,13 @@
         "image_url": "https://i.ibb.co/Xz8cLPL/mqdefault.jpg",
         "price": "5",
         "completed": 9355,
-        "details_id": "hhh222"
-
+        "sub_title": "",
+        "description": {
+            "des_title": "",
+            "content": "",
+            "Requirements": []
+        }
     },
- 
     {
         "id": "09",
         "name": "Flutter & Dart - The Complete Guide [2022 Edition]",
@@ -114,7 +144,11 @@
         "image_url": "https://i.ibb.co/Tr4qRPK/Apps-built-with-Flutter.jpg",
         "price": "11",
         "completed": 7773,
-        "details_id": "ii225"
-
+        "sub_title": "",
+        "description": {
+            "des_title": "",
+            "content": "",
+            "Requirements": []
+        }
     }
 ]
