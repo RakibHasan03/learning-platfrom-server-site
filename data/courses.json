@@ -172,11 +172,22 @@
         "image_url": "https://i.ibb.co/qgpRGG1/course-7359-image.jpg",
         "price": "12",
         "completed": 5555,
-        "sub_title": "",
+        "sub_title": "The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!",
         "description": {
-            "des_title": "",
-            "content": "",
-            "Requirements": []
+            "des_title": "Really, really well made course. Super in-depth, with great challenges and projects that will solidify your Javascript understanding",
+            "content": "JavaScript is the most popular programming language in the world. It powers the entire modern web. It provides millions of high-paying jobs all over the world.That's why you want to learn JavaScript too. And you came to the right place!",
+            "Requirements": [
+                "No coding experience is necessary to take this course! I take you from beginner to expert!",
+                "Any computer and OS will work — Windows, macOS or Linux. We will set up your text editor the course.",
+                "A basic understanding of HTML and CSS is a plus, but not a must! The course includes an HTML and CSS crash course."
+            ],
+            "learning_point":[
+                "Build 5 beautiful real-world projects for your portfolio! ",
+                "Master the JavaScript fundamentals: variables, if/else, operators, boolean logic",
+                "Deep dive into functions: arrow functions, first-class and higher-order functions, bind, and closures.",
+                "prototypal inheritance, constructor functions (ES5), ",
+                "classes (ES6), encapsulation, abstraction, inheritance, and polymorphism."
+            ]
         }
     },
     {
@@ -188,11 +199,22 @@
         "image_url": "https://i.ibb.co/Xz8cLPL/mqdefault.jpg",
         "price": "5",
         "completed": 9355,
-        "sub_title": "",
+        "sub_title": "Learn modern HTML5, CSS3 and web design by building a stunning website for your portfolio! Includes flexbox and CSS Grid",
         "description": {
-            "des_title": "",
-            "content": "",
-            "Requirements": []
+            "des_title": "Having gone through other related courses on other platforms, I can say this course is the most practical and readily applicable course on web design and development I have taken",
+            "content": "Well, I'm here to teach you HTML, CSS, and web design, all by building the stunning website that you just saw, step-by-step.So, after finishing this course, you will know exactly how to build a beautiful, professional, and ready-to-launch website just like Omnifood, by following a 7-step process. And it will even look great on any computer, tablet, and smartphone.",
+            "Requirements": [
+                "No coding or design experience necessary",
+                "Any computer works — Windows, macOS or Linux",
+                "You don’t need to buy any software — we will use the best free code editor in the world"
+            ],
+            "learning_point":[
+                "The fundamentals of modern and semantic HTML, CSS, and building layouts in a small separate project",
+                "How to design beautiful websites, by learning a web design framework I created just for this course",
+                "How to use well-established website components and layout patterns in order to come up with professional-looking designs",
+                "How to find and use free design assets such as images, fonts, and icons"
+            ]
+
         }
     },
     {
@@ -204,11 +226,25 @@
         "image_url": "https://i.ibb.co/Tr4qRPK/Apps-built-with-Flutter.jpg",
         "price": "11",
         "completed": 7773,
-        "sub_title": "",
+        "sub_title": "A Complete Guide to the Flutter SDK & Flutter Framework for building native iOS and Android apps",
         "description": {
-            "des_title": "",
-            "content": "",
-            "Requirements": []
+            "des_title": "Join the most comprehensive & bestselling Flutter course and learn how to build amazing iOS and Android apps!",
+            "content": "You'll learn Flutter not only in theory but we'll build a complete, realistic app throughout this course. This app will feature both all the core basics as well as advanced features like using Google Maps, the device camera, adding animations and more!",
+            "Requirements": [
+                "Basic programming language will help but is not a must-have",
+                "You can use either Windows, macOS or Linux for Android app development - iOS apps can only be built on macOS though",
+                "NO prior iOS or Android development experience is required",
+                "NO prior Flutter or Dart experience is required - this course starts at zero!"
+            ],
+            "learning_point":[
+                "Detailed setup instructions for both macOS and Windows",
+                "A thorough introduction to Flutter, Dart and the concept behind widgets",
+                "Debugging tipps & tricks",
+                "State management solutions",
+                "Handling and validating user input"
+            ]
+
+            
         }
     }
 ]
