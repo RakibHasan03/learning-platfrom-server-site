@@ -1,0 +1,120 @@
+[
+    {
+        "id": "01",
+        "name": "Learn Python: The Complete Python Programming Course",
+        "created": "Dr. Alvinash Jain",
+        "institute": "The Codex",
+        "rating": "4.5",
+        "image_url": "https://i.ibb.co/zxrWtbJ/python.jpg",
+        "price": "10",
+        "completed": 3455,
+        "sub_title": "Learn A-Z everything about Python, from the basics, to advanced topics like Python GUI, Python Data Analysis, and more!",
+        "description": {
+            "des_title": "If you’re looking to learn Python for the very first time or need a quick brush-up, this is the course for you!",
+            "description": "Python has rapidly become one of the most popular programming languages around the world. Compared to other languages such as Java or C++, Python consistently outranks and outperforms these languages in demand from businesses and job availability. The average Python developer makes over $100,000 - this number is only going to grow in the coming years.",
+            "Requirements": [
+                "Macintosh (OSX)/ Windows(Vista and higher) Machine",
+                "Internet Connection"
+            ]
+
+        }
+
+    },
+    {
+        "id": "02",
+        "name": "React - The Complete Guide (incl Hooks, React Router, Redux)",
+        "created": "Alex Josh",
+        "institute": "The NewReact",
+        "rating": "5",
+        "image_url": "https://i.ibb.co/BKpwYsC/448-252.jpg",
+        "price": "15",
+        "completed": 4785
+
+    },
+   
+    {
+        "id": "03",
+        "name": "API Testing with Python 3 & PyTest, Backend Automation 2022",
+        "created": "Adam Butler",
+        "institute": "The ApiHouse",
+        "rating": "4.3",
+        "image_url": "https://i.ibb.co/PM30Z8Y/f7186667d242.jpg",
+        "price": "12",
+        "completed": 6485
+
+    },
+    
+    {
+        "id": "04",
+        "name": "Beginning C++ Programming - From Beginner to Beyond",
+        "created": "Stticy Tailor",
+        "institute": "The Coders",
+        "rating": "4.1",
+        "image_url": "https://i.ibb.co/2tddhgz/C-programming-1024x530.png",
+        "price": "12",
+        "completed": 6485,
+        "details_id": "ddd431"
+
+    },
+    {
+        "id": "05",
+        "name": "Blockchain Programming",
+        "created": "Levi Berns",
+        "institute": "The Chainer",
+        "rating": "4.8",
+        "image_url": "https://i.ibb.co/wzNfdVR/Banking-preview-min.png",
+        "price": "14",
+        "completed": 6855,
+        "details_id": "eee731"
+
+    },
+    {
+        "id": "06",
+        "name": "Machine Learning A-Z™: Hands-On Python & R In Data Science",
+        "created": "Jon Denver",
+        "institute": "The NighCoder",
+        "rating": "4.1",
+        "image_url": "https://i.ibb.co/2kVCjnJ/articleocw-5dbb5b040dc23.jpg",
+        "price": "9",
+        "completed": 6855,
+        "details_id": "fff878"
+
+    },
+    {
+        "id": "07",
+        "name": "The Complete JavaScript Course 2022: From Zero to Expert!",
+        "created": "Hans David",
+        "institute": "The Scripter",
+        "rating": "4.8",
+        "image_url": "https://i.ibb.co/qgpRGG1/course-7359-image.jpg",
+        "price": "12",
+        "completed": 5555,
+        "details_id": "ggg111"
+
+    },
+    {
+        "id": "08",
+        "name": "Build Responsive Real-World Websites with HTML and CSS",
+        "created": "Jonas Stepher",
+        "institute": "The New Web",
+        "rating": "4.9",
+        "image_url": "https://i.ibb.co/Xz8cLPL/mqdefault.jpg",
+        "price": "5",
+        "completed": 9355,
+        "details_id": "hhh222"
+
+    },
+ 
+    {
+        "id": "09",
+        "name": "Flutter & Dart - The Complete Guide [2022 Edition]",
+        "created": "Crich Stopher",
+        "institute": "The New Fluter",
+        "rating": "4.5",
+        "image_url": "https://i.ibb.co/Tr4qRPK/Apps-built-with-Flutter.jpg",
+        "price": "11",
+        "completed": 7773,
+        "details_id": "ii225"
+
+    }
+]
