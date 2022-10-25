@@ -12,7 +12,13 @@ app.get('/courses', (req, res) => {
 app.get('/', (req, res) => {
     res.send(' Courses Api Running')
 });
+app.get('/courses/:id', (req, res) => {
+    // console.log(req.params.id)
+    const id = req.params.id;
+    const selectCourse = courses.find(c=> c.id === id);
+    res.send(selectCourse)
 
+});
 app.listen(port, () => {
     console.log(`server running on port: ${port}`)
 })
