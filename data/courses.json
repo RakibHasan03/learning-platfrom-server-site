@@ -15,6 +15,15 @@
             "Requirements": [
                 "Macintosh (OSX)/ Windows(Vista and higher) Machine",
                 "Internet Connection"
+            ],
+            "learning_point":[
+                "How to download and install python",
+                "Installing text editors and Pycharm",
+                "Command line basics",
+                "Python Data Structures",
+                "Python Control Flow Statements",
+                "Python Modules and Packages"
+
             ]
         }
     },
@@ -36,6 +45,15 @@
                 "You DON'T need to be a JavaScript expert to succeed in this course!",
                 "ES6+ JavaScript knowledge is beneficial but not a must-have",
                 "NO prior React or any other JS framework experience is required!"
+            ],
+            "learning_point":[
+                "A thorough introduction to React.js (What is it and why would you use it?)",
+                "All the core basics: How React works, building components with React & building UIs with React",
+                "Components, props & dynamic data binding",
+                "Working with user events and state to create interactive applications",
+                "Redux & Redux Toolkit",
+                "Routing with React Router"
+
             ]
         }
     },
@@ -48,11 +66,22 @@
         "image_url": "https://i.ibb.co/PM30Z8Y/f7186667d242.jpg",
         "price": "12",
         "completed": 6485,
-        "sub_title": "",
+        "sub_title": "Learn to build framework for API automation testing (backend testing) using Python and PyTest, SQL, Reports, Docke",
         "description": {
-            "des_title": "",
-            "content": "",
-            "Requirements": []
+            "des_title": "Learn how to use Python to test the back-end of web services or APIs. We use industry standard real eCommerce RESTful API to practice testing using Python programming language.",
+            "content": "We will build a framework using one of the most popular testing tools PyTest. The framework we will build will be extendable and scalable to be able to include frontend (Selenium WebDriver) testing.The skills learned here are used in any Web Serivces testing.",
+            "Requirements": [
+                "Have basic knowledge of Python programming language",
+                "Have basic knowledge of software testing",
+                "Have sudo/admin access to your laptop to be able to install software"
+            ],
+            "learning_point":[
+                "35 + lectures (continuously adding more examples)",
+                "Plenty of APIs (endpoints) for you to practice with beyond this class",
+                "Enough material and examples to be able to create a      project and maintain a GitHub repo",
+                "Industry standard tools to add to your resume."
+            ]
+
         }
     },
     {
@@ -64,11 +93,21 @@
         "image_url": "https://i.ibb.co/2tddhgz/C-programming-1024x530.png",
         "price": "12",
         "completed": 6485,
-        "sub_title": "",
+        "sub_title": "Obtain Modern C++ Object-Oriented Programming (OOP) and STL skills. C++14 and C++17 covered. C++20 info see below.",
         "description": {
-            "des_title": "",
-            "content": "",
-            "Requirements": []
+            "des_title": "Which programming language is often seen as a badge of honor among software developers?  C++",
+            "content": "Which programming language is routinely ranked in the top 5 programming languages by popularity, and been consistently in the top 10 for close to 20 years?  C++ Why you should learn C++ Much, if not most of the software written today is still written in C++ and this has been the case for many, many years. ",
+            "Requirements": [
+                "Access to a computer running Windows, Mac OS X or Linux"
+            ],
+            "learning_point":[
+                "Looping with while, do/while for, range-based for statements and recursion",
+                "Performing calculations and displaying results",
+                "Using existing classes and creating objects",
+                "An introduction to the C++ STL",
+                " An introduction to Exception Handling"
+
+            ]
         }
     },
     {
@@ -80,11 +119,23 @@
         "image_url": "https://i.ibb.co/wzNfdVR/Banking-preview-min.png",
         "price": "14",
         "completed": 6855,
-        "sub_title": "",
+        "sub_title": "Build a blockchain and cryptocurrency from scratch using Python",
         "description": {
-            "des_title": "",
-            "content": "",
-            "Requirements": []
+            "des_title": "You'll learn the ins and outs of blockchain like only a blockchain programmer knows. Using only a few Python libraries, we'll build a cryptocurrency from the ground up. Even if you have very little programming experience we can help you through it!",
+            "content": "You'll learn about digital signatures, hashing and proof-of-work mining. We'll design and build a scheme for decentralized consensus including communicating over TCP/IP sockets. Bring your basic knowledge of Python, and you'll emerge on the other side with a grasp of cryptocurrencies better than 99% of your peers and with a working prototype you can build on.",
+            "Requirements": [
+                "Beginning knowledge of any programming language",
+                "Python 3.x",
+                "A text editor"
+
+            ],
+            "learning_point":[
+                "Transaction",
+                "Block chain based transaction ledger",
+                "Mining and prof of work",
+                "communicating with peers"
+
+            ]
         }
     },
     {
@@ -96,11 +147,20 @@
         "image_url": "https://i.ibb.co/2kVCjnJ/articleocw-5dbb5b040dc23.jpg",
         "price": "9",
         "completed": 6855,
-        "sub_title": "",
+        "sub_title": "Learn NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, Scipy and develop Machine Learning Models in Python",
         "description": {
-            "des_title": "",
-            "content": "",
-            "Requirements": []
+            "des_title": "Are you interested in data science and machine learning, but you don't have any background, and you find the concepts confusing?",
+            "content": "Are you interested in programming in Python, but you always afraid of coding? I think this course is for you! Even if you are familiar with machine learning, this course can help you to review all the techniques and understand the concept behind each term.",
+            "Requirements": [
+                "Python's basic syntax"
+            ],
+            "learning_point":[
+                "Chapter1: Introduction and all required installations",
+                "Chapter2: Useful Machine Learning libraries (NumPy, Pandas & Matplotlib)",
+                "Chapter3: Preprocessing",
+                "Chapter4: Machine Learning Types",
+                "Chapter5: Supervised Learning: Classification"
+            ]
         }
     },
     {
