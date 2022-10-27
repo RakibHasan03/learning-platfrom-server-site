@@ -1,5 +1,8 @@
 # This is a backend file for my e learning 
-- this is a backed file 
+- project name: Learning With Programming
+- Project live site: https://online-learning-site.firebaseapp.com/courses
+
+- this is a backend file 
 - the file has a json file
 
 # Summary 
